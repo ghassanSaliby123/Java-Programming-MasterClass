@@ -1,0 +1,6 @@
+0, You are in front of a computer.
+1, You are at the end of the road.
+2, You are at the top of a hill.
+3, You are inside a building.
+4, You are in a valley beside a stream.
+5, You are in the forest.

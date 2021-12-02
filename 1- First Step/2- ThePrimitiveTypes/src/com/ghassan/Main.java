@@ -1,7 +1,7 @@
 package com.ghassan;
 
 public class Main {
-    //This simple provides explanations for the primitive types in Java
+    //This example provides explanations for the primitive types in Java
     //Using control flow statements and the Scanner object
     public static void main(String[] args) {
         System.out.println(
