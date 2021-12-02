@@ -1,5 +1,5 @@
 These examples implement the following concepts in Java
-1- Composition (Has-A)relatio
+1- Composition (Has-A)relationship 
 2- Encapsulation
 3- Polymorphism 
 
