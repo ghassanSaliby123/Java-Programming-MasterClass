@@ -7,3 +7,5 @@ The follwoing concepts are implemented:
 5- The BufferedReader/BufferedWriter and the BufferedInputStream/BufferedOutputStream
 6- Reading and writing Objects (Serialization) with ObjectInputStream and ObjectOutpuStream
 7- Random access file
+
+All these examples use the Adventure Game example from the Java Collection part
