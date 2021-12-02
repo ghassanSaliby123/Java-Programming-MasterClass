@@ -9,3 +9,4 @@ The follwoing concepts are implemented:
 7- Random access file
 
 All these examples use the Adventure Game example from the Java Collection part
+The README.txt file for each project describes the concept which is used 
