@@ -7,6 +7,7 @@ public final class ExpressionsStatements {
     private ExpressionsStatements() {
     }
 
+    //Print the choices
     public static void menu() {
         System.out.println(
                 Coloring.BLUE_BOLD + "1- Expressions.\n" +
@@ -18,6 +19,7 @@ public final class ExpressionsStatements {
                 "read more about the primitive types....");
     }
 
+    //Validate the user input
     public static int parseInput(String input) {
         int integerValue;
         try {
@@ -34,6 +36,7 @@ public final class ExpressionsStatements {
         return -1;
     }
 
+    //
     public static void readInput() {
         Scanner scanner = new Scanner(System.in);
         boolean condition = true;

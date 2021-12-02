@@ -1,5 +1,7 @@
 package com.ghassan;
 
+
+//Provide coloring to the text which is printed to the console
 public class Coloring {
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset

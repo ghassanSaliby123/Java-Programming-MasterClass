@@ -6,6 +6,7 @@ public class Main {
     //This example is about a baking application
     //Each back has branches which have lists of Customers who make transactions
     //The idea is to hide all the application functionalities and wrap them inside the Bank class
+    //Bank -> Branches -> Customers
     public static void main(String[] args) {
         Bank bank = new Bank("ING");
         bank.addBranch("Belgium");

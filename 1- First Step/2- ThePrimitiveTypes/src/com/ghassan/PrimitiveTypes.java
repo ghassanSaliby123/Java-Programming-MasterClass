@@ -6,6 +6,7 @@ public final class PrimitiveTypes {
     private PrimitiveTypes() {
     }
 
+    //Print the Menu
     public static void menu(){
         System.out.println(
                 Coloring.BLUE_BOLD+"1- Byte.\n" +
@@ -22,6 +23,7 @@ public final class PrimitiveTypes {
                 "read more about the primitive types....");
     }
 
+    //This method accept entries between 0 and 10
     public static int parseInput(String input){
         int integerValue;
         try {
@@ -38,6 +40,7 @@ public final class PrimitiveTypes {
         return -1;
     }
 
+    //Read the user input
     public static void readInput() {
         Scanner scanner = new Scanner(System.in);
         boolean condition = true;
